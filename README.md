@@ -1,4 +1,4 @@
-<h1 align="center">🐝💃 waggledance.ai <img src="https://img.shields.io/badge/preview-%20" /></h1> 
+<h1 align="center">🐝💃 waggledance.ai <img src="https://img.shields.io/badge/preview-%20" /></h1>  
 
 <div align="center"
 
